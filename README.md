@@ -1,8 +1,8 @@
-# CS50-P1-programming with C
+# CS50-programming with C
 
 This is my first coding experience.
 
-This is the problem set 1 of Harvard CS50 class.
+These are the source codes containing algorithms and data structures learnt in Harvard Introduction to Science class.
 
 Please find the link below for the problems:
-https://cs50.harvard.edu/x/2022/psets/1/
+https://cs50.harvard.edu/x/2022/
